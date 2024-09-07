@@ -1,6 +1,6 @@
 # Hi!
 
-Today we will be talking about Installation for (Snake in terminal)[github.com/epicinver/snake-in-terminal/], This is a small guide and won't be long.
+Today we will be talking about Installation for github.com/epicinver/snake-in-terminal/, This is a small guide and won't be long.
 
 # Downloading
 
