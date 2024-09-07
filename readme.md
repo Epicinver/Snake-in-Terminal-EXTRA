@@ -9,4 +9,4 @@ Finish the setup.
 
 # Modifying
 
-To modiy, download Visual Studio Code and Visual Studio, then go to (this link)[https://github.com/Epicinver/Snake-in-Terminal-CODE/]
+To modiy, download Visual Studio Code and Visual Studio, then go to https://github.com/Epicinver/Snake-in-Terminal-CODE/
